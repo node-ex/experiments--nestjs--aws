@@ -404,3 +404,5 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # VSCode
 .vscode/*
 !.vscode/*.template.json
+
+public

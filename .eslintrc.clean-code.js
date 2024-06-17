@@ -2,7 +2,7 @@
 
 module.exports = {
   rules: {
-    complexity: ['warn', { max: 5 }],
+    // complexity: ['warn', { max: 5 }],
     // 'max-lines-per-function': [
     //   'error',
     //   { max: 20, skipBlankLines: true, skipComments: true },
